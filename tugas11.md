@@ -9,9 +9,9 @@
 ## 4. Todo Show
 ![Alt text](screenshot/tugas11/ScreenshotTodoShow.png)
 ## 5. Todo Show Forbidden
-![Alt text](screenshot/tugas11/ScreenshotTodoShowForbidden.png)
+![Alt text](screenshot/tugas11/ScreenshotTodoShowForbiddden.png)
 ## 6. Todo search
-![Alt text](screenshot/tugas11/ScreenshotSearch.png)
+![Alt text](screenshot/tugas11/ScreenshotTodoSearch.png)
 ## 6. Logout
 ![Alt text](screenshot/tugas11/ScreenshotLogout.png)
 

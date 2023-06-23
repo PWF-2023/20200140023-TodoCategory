@@ -12,6 +12,6 @@
 ![Alt text](screenshot/tugas11/ScreenshotTodoShowForbiddden.png)
 ## 6. Todo search
 ![Alt text](screenshot/tugas11/ScreenshotTodoSearch.png)
-## 6. Logout
+## 7. Logout
 ![Alt text](screenshot/tugas11/ScreenshotLogout.png)
 
